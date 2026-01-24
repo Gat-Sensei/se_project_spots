@@ -1,5 +1,7 @@
 # Project 3: Spots
 
+**Live Site:** https://github.com/Gat-Sensei/se_project_spots
+
 Spots is a interactive image-sharing application
 
 ### Overview
@@ -9,6 +11,7 @@ Spots is a interactive image-sharing application
 - Images
 
 **Intro**
+
 Spots allows people to show off their photos to other people on the internet, users will be able to add or remove photos,
 like photos from other users, and add adjusmtents to their profile
 
