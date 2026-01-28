@@ -65,6 +65,7 @@
   gap: 8px;
   align-self: flex-end;
   margin-left: auto;
+  border: none;
 }
 
 @media screen and (max-width: 627px) {
@@ -92,6 +93,7 @@
 
   .profile__column {
     margin: 0 0 20px;
+    align-items: center;
   }
 
   .profile__add-btn {
