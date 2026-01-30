@@ -28,3 +28,8 @@ like photos from other users, and add adjusmtents to their profile
 ## Plans on improving the project
 
 - Needs a couple tweeks to make it work better
+
+## Project Pitch Video
+
+Check out [this video](https://drive.google.com/file/d/1qT-25ls5IhlpwC5VvXgxpmlN8s_mgxq_/view?usp=sharing), where I describe my
+project and some challenges I faced while building it.
