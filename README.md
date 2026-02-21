@@ -1,6 +1,6 @@
 # Project 3: Spots
 
-**Live Site:** https://github.com/Gat-Sensei/se_project_spots
+**Live Site:** https://Gat-Sensei.github.io/se_project_spots/
 
 Spots is a interactive image-sharing application
 
