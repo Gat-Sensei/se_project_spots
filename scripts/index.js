@@ -50,6 +50,7 @@ function handleEditProfileSubmit(evt) {
 function handleAddCardSubmit(evt) {
   evt.preventDefault();
   console.log(newPostUrlInput.value, newPostDescriptionInput.value);
+  newPostModal.classList.remove("modal_is-opened");
 }
 
 editProfileForm.addEventListener("submit", handleEditProfileSubmit);

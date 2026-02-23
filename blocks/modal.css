@@ -25,7 +25,6 @@
 
 .modal__container {
   max-width: 730px;
-  max-height: 408px;
   width: 100%;
   border-radius: 8px;
   background-color: #fff;
@@ -39,7 +38,7 @@
   right: 12px;
   width: 40px;
   height: 40px;
-  background-image: url(../images/Close\ Icon.png);
+  background-image: url(../images/Close\ Icon.svg);
   border: none;
   background-color: #fff;
   cursor: pointer;
@@ -75,6 +74,7 @@
   font-style: normal;
   font-weight: 500;
   box-sizing: border-box;
+  height: 54px;
 }
 
 .modal__input::placeholder {
@@ -88,4 +88,15 @@
   color: #fcf5e5;
   border-radius: 8px;
   cursor: pointer;
+}
+
+@media screen and (max-width: 627px) {
+  .modal__container {
+  }
+
+  .modal__input {
+  }
+
+  .modal__submit-btn {
+  }
 }
